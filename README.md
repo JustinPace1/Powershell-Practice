@@ -1,8 +1,7 @@
-# Powershell-User-Audit-Practice
+# Powershell-Practice
 Powershell project for testing and project making. First steps to advance my knowledge and working towards the CyberArk (Idira) DEF-PAM
 
 # Powershell User Audit
-
 This project exports local user account information to a CSV file.
 
 ## Usage
@@ -10,8 +9,6 @@ This project exports local user account information to a CSV file.
 Run:
 
 Get-LocalUser.ps1
-
-# Powershell-disabled-account-report
 
 # Powershell Disabled Account Report
 
